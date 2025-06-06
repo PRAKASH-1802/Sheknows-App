@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92189919123",
+    "project_id": "sheknows-8f64f",
+    "storage_bucket": "sheknows-8f64f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92189919123:android:d93962b44bbff5ccfc8a66",
+        "android_client_info": {
+          "package_name": "com.example.sheknows_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_oaoZ03Iwt7pjZxyj863LruWDbCnI94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
